@@ -1,0 +1,2 @@
+# CategorySectionsDoc
+Documentation about CustomCategorySection plugin
