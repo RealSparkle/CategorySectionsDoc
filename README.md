@@ -23,7 +23,7 @@ Target platform : Windows (Not tested on Mac or Linux , but should work fine)
 
 ## Installation
 
-Install from the INSERTLINK.  
+Install from the [Marketplace](com.epicgames.launcher://ue/marketplace/product/3daf1f4957fe4a13a4b9601554453db7).  
 If the feature is not available after installing the plugin, it is possible that the plugin has not been enabled, so please check if the plugin is enabled from Edit > Plugins.
 
 ![Plugin](https://user-images.githubusercontent.com/122740591/221409848-b9bc0fe2-f981-47b1-8dd1-0641bd98ea11.png)
