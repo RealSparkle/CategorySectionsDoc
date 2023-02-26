@@ -11,9 +11,10 @@
 
 This plugin allows users to add custom section buttons inside Actors, based on their class and their property categories. These buttons allow to quickly filter actors properties.
 
-![DetailsSection](https://user-images.githubusercontent.com/122740591/221410561-7b7633be-ca86-4052-8a68-5dcddbbb7aa8.png)
+> __Note__
+> **THE PLUGIN SUPPORTS CATEGORIES CREATED BOTH FROM CODE AND FROM BLUEPRINT**
 
-**`rgb(9, 105, 218)`THE PLUGIN SUPPORTS CATEGORIES CREATED BOTH FROM CODE AND FROM BLUEPRINT**
+![DetailsSection](https://user-images.githubusercontent.com/122740591/221410561-7b7633be-ca86-4052-8a68-5dcddbbb7aa8.png)
 
 ## Requirement
 
