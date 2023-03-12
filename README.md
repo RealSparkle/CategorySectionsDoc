@@ -48,3 +48,9 @@ After restart is completed you will see the selected category appear in the deta
 ![CategoryListExample](https://user-images.githubusercontent.com/122740591/221410031-be4f4ad1-6ada-4da8-844b-beb64548799c.png)
 ![CateogryButtonExample](https://user-images.githubusercontent.com/122740591/221410077-55816a07-e0f7-4e94-b9c2-64c78d3958fc.png)
 
+## Changelog: 
+
+Version 1.1.0 [Waiting marketplace revision]
+<!--ts-->
+   * Add ESectionBehavior enum to allow user to choose between override or addictive behavior
+<!--te-->
