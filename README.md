@@ -48,6 +48,18 @@ After restart is completed you will see the selected category appear in the deta
 ![CategoryListExample](https://user-images.githubusercontent.com/122740591/221410031-be4f4ad1-6ada-4da8-844b-beb64548799c.png)
 ![CateogryButtonExample](https://user-images.githubusercontent.com/122740591/221410077-55816a07-e0f7-4e94-b9c2-64c78d3958fc.png)
 
+### Section Behavior
+From version 1.1.0 of the plugin there is a new property that allow user to choose what kind of behavior is desired for a specific class.
+
+![SectionBehavior_Addictive](https://user-images.githubusercontent.com/122740591/224554738-0d33e7f3-cac8-44c9-8de3-17e2ba712cda.png)
+
+Addictive : All the selected categories are added to the default engine ones.
+
+![SectionBehavior_Override](https://user-images.githubusercontent.com/122740591/224554742-bb1906a4-d130-4bc6-b415-00339a11ee47.png)
+
+Override : All the selected categories are added, but the non-seleceted one are removed (also engine default). This functionality is useful to restrict property of specific actor to avoid errors.
+
+
 ## Changelog: 
 
 Version 1.1.0 [Waiting marketplace revision]
