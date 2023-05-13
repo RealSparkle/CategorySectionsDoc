@@ -18,7 +18,7 @@ This plugin allows users to add custom section buttons inside Actors, based on t
 
 ## Requirement
 
-Target version : UE5.0 ～ 5.1  
+Target version : UE5.0 ～ 5.2  
 Target platform : Windows (Not tested on Mac or Linux , but should work fine)
 
 ## Installation
